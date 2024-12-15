@@ -1,4 +1,4 @@
 int main() {
-    xsh_run();
-    return 0;
+  xsh_run();
+  return 0;
 }
